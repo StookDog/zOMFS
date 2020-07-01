@@ -1,0 +1,834 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "2a95ea25-bbc8-11ea-99f7-80c5f289851e",
+                            "deck_config_uuid": "2a95ea26-bbc8-11ea-9569-80c5f289851e",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 10,
+                            "extendRev": 50,
+                            "media_files": [
+                                "_AnKingRound.png"
+                            ],
+                            "name": "1. Wound Healing",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Regeneration}} occurs when the healed tissue is structurally and functionally indistinguishable from the native tissue.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "u?Swpfbht9",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Repair}} occurs when the tissue integrity is replaced primarily through formation of fibrotic scar tissue.<br>",
+                                        "Repair by scarring is the body’s version of a spot weld and the replacement tissue is coarse and has a lower cellular content than<br>native tissue.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "BD=fNbaSQ7",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "With the exception of&nbsp;{{c1::bone and liver::2}}, tissue disruption results in {{c1::repair}}.",
+                                        "(Rather than regeneration)",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "LL,M$T?+8q",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Labile}} cells divide throughout their lifespan and include&nbsp;{{c2::keratinocytes}} of the epidermis and&nbsp;{{c2::epithelial cells}} of the oral mucosa.<br>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "k@;1ZU5RBh",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Stable}} cells exhibit a low rate of duplication but can undergo rapid proliferation in response to injury. These cells include&nbsp;{{c2::fibroblasts}} in the dermis.<br>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "x2)R/.-IJ1",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Permanent}} cell do not divide in the postnatal life. These include&nbsp;{{c2::specialized nerve}} in the CNS and&nbsp;{{c2::cardiac muscle cells}} in the heart.<br>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "y~0^T2;X{p",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "The expectation of \"normal healing\" should be realistic and based on&nbsp;{{c1::the inherent capabilities}} of the injured tissue.",
+                                        "E.g. Labile, Stable, Permanent cells ability to replicate",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "K~6Dug$rJ*",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "At a macro level, the quality of healing is influenced by the {{c1:: nature of the tissue disruption}} and the&nbsp;{{c2::circumstances surrounding wound closure}}.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "P(ugD&.7{F",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Healing by&nbsp;{{c1::first}} intention occurs when a clean laceration or surgical incision is closed {{c2::primarily}}.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "Q5|lDJ,T0.",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Healing by {{c1::first}} intention proceeds {{c2::rapidly}} and assumes no dehisence and {{c2::minimal}} scar formation.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "Eg}b[b@qQh",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Healing by&nbsp;{{c1::second}} intention occurs when wound healing is more complicated and occurs through a protracted filling of the tissue defect with&nbsp;{{c2::granulation}} and&nbsp;{{c2::connective}} tissue.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "i|C.QJtSJY",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Healing by&nbsp;{{c1::second}} intention is commonly associated with&nbsp;{{c2::avulsive}} injury,&nbsp;{{c2::local infection}}, or&nbsp;{{c2::inadequate}} closure of the wound.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "bbXY@%J7P/",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Healing by&nbsp;{{c1::third}} intention occurs through a staged procedure that combines {{c2::secondary}} healing with {{c2::delayed primary closure}}.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "mMAb2#fl~#",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Healing by&nbsp;{{c1::third}} intention involves {{c2::debriding the wound}}, allowing it to granulate and heal by second intention for&nbsp;{{c3::5-7}} days. Then, once risk for infection is minimal, to proceed to {{c2::suture close}} and allow healing by first intention.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "c=G@w6pIaa",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": [
+                                        "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "crowdanki_uuid": "2a95ea21-bbc8-11ea-82d4-80c5f289851e",
+                    "deck_config_uuid": "2a95ea22-bbc8-11ea-8ebe-80c5f289851e",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "_AnKingRound.png"
+                    ],
+                    "name": "Section 1: Medicine, Surgery, and Anesthesia",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "2a9610e6-bbc8-11ea-b801-80c5f289851e",
+                            "deck_config_uuid": "2a9610e7-bbc8-11ea-bb2e-80c5f289851e",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 10,
+                            "extendRev": 50,
+                            "media_files": [
+                                "_AnKingRound.png"
+                            ],
+                            "name": "Chapter 38: Principles of Mangement of Maxillofacial Infections",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Mortality of Ludwig's angina has been reduced to&nbsp;{{c1::4}}%.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "C+z=55yEBI",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "According to Flynn and colleagues, there was trismus in&nbsp;{{c1::73}}% and dysphagia in&nbsp;{{c1::78}}% of patients at presentation.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "se1<S+=m`Q",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "The most common location for infection to enter the submandibular space is through the&nbsp;{{c1::lingual}} plate adjactent to the mandibular molars.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "AK%3i=.*TA",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Peptostreptococci}} bacteria were associated with cellulitis significantly more than with abscess.<br>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "D.[=:TRZu[",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Hydration}} is perhaps the best method for controlling fever.<br>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "ht+N$rzS|8",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Fever increases metabolic demand by&nbsp;{{c1::5-8}}% per degree of fever per day.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "ARU,szS}%&",
+                                    "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
+                    "crowdanki_uuid": "2a9610e2-bbc8-11ea-b24b-80c5f289851e",
+                    "deck_config_uuid": "2a9610e3-bbc8-11ea-a4fe-80c5f289851e",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "_AnKingRound.png"
+                    ],
+                    "name": "Section 4: Maxillofacial Pathology and Infections",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "2a95d6c5-bbc8-11ea-9bcc-80c5f289851e",
+            "deck_config_uuid": "2a95d6c6-bbc8-11ea-9d62-80c5f289851e",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "_AnKingRound.png"
+            ],
+            "name": "Peterson's Principles of OMFS",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "2a95c360-bbc8-11ea-a796-80c5f289851e",
+    "deck_config_uuid": "2a95d6c2-bbc8-11ea-bfdd-80c5f289851e",
+    "deck_configurations": [
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2a95d6c2-bbc8-11ea-bfdd-80c5f289851e",
+            "currentValue": 120,
+            "damage": 5,
+            "defuzz": 0,
+            "defuzz_ivl0": 5,
+            "defuzz_ivl0m": 4,
+            "defuzz_ivl120": 5,
+            "defuzz_ivl120m": 4,
+            "defuzz_ivl14": 15,
+            "defuzz_ivl14m": 2,
+            "defuzz_ivl150": 5,
+            "defuzz_ivl150m": 4,
+            "defuzz_ivl180": 5,
+            "defuzz_ivl180m": 4,
+            "defuzz_ivl2": 1,
+            "defuzz_ivl21": 15,
+            "defuzz_ivl210": 5,
+            "defuzz_ivl210m": 4,
+            "defuzz_ivl21m": 2,
+            "defuzz_ivl2m": 1,
+            "defuzz_ivl3": 3,
+            "defuzz_ivl30": 15,
+            "defuzz_ivl30m": 2,
+            "defuzz_ivl3m": 2,
+            "defuzz_ivl45": 5,
+            "defuzz_ivl45m": 4,
+            "defuzz_ivl60": 5,
+            "defuzz_ivl60m": 4,
+            "defuzz_ivl7": 25,
+            "defuzz_ivl7m": 1,
+            "defuzz_ivl90": 5,
+            "defuzz_ivl90m": 4,
+            "dyn": false,
+            "enableDamage": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxLife": 120,
+            "maxTaken": 60,
+            "name": "OFF",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 0,
+                "retirementActions": {
+                    "delete": false,
+                    "move": false,
+                    "suspend": true,
+                    "tag": true
+                },
+                "retiringInterval": 0,
+                "separate": true
+            },
+            "recover": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2a95d6c6-bbc8-11ea-9d62-80c5f289851e",
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2a95ea22-bbc8-11ea-8ebe-80c5f289851e",
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2a95ea26-bbc8-11ea-9569-80c5f289851e",
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2a9610e3-bbc8-11ea-a4fe-80c5f289851e",
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2a9610e7-bbc8-11ea-bb2e-80c5f289851e",
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "_AnKingRound.png"
+    ],
+    "name": "zOMFS",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+            "css": "/*  Cloze-AnKingMaster V6  */\n\n/*~~~~~~~~USER CUSTOMIZATION START~~~~~~~~~*/\n/* You can choose colors at www.htmlcolorcodes.com */\n\n/* TIMER ON/OFF */\n.timer { display: none; } /* 'none' or 'block' */\n/* TAGS ON/OFF DESKTOP & MOBILE*/\n\t#tags-container { display: none; } /* ‘none’ or ‘block’ */\n.mobile #tags-container { display: none; } /* ‘none’ or ‘block’ */\n/* MOVE TAGS UP FOR 'NO-DISTRACTIONS' ADD-ON */\n#tags-container{ padding-bottom: 0px; } /* 0 normal, 55 to move up */\n/* ANKING IMAGE HYPERLINK ON/OFF */\n\t#pic {display: none; } /* 'none' or 'block' */\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { text-align:left; } \n\n/*FONT SIZE*/\n     /* DESKTOP */ html \n\t{ font-size: 28px; }\n     /* MOBILE */ .mobile\n         { font-size: 28px; }\n\t\t/* NOTE: anything with 'px' will keep a font that size indefinitely, 'rem' is a fraction of this size above and allows all text to change size with the above setting */\n\n/*IPAD ADJUSTMENTS*/\n.ipad .card, .ipad #extra {font-size:28px;}\n.ipad .hints {font-size:24px;}\n.ipad #firstaid, .ipad #sketchy, .ipad #physeo, .ipad #additional { font-size: 20px!important; }\n\n/*HINT FONT SIZE*/ .hints \n\t{ font-size: .85rem; }\n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size*/\n\t#firstaid, #sketchy, #physeo, #additional { font-size: .5rem !important; } \n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size on Mobile*/\n\t.mobile #firstaid, .mobile #sketchy, .mobile #physeo, .mobile #additional { font-size: 20px!important; }\n\n/*FONT STYLE*/\t\n\t.card, kbd { font-family: Arial Greek, Arial; } /*Step exam's font is Arial Greek*/\n/*MAX IMAGE HEIGHT*/\n\timg {max-height: none; }\n /*MAX IMAGE WIDTH*/\n\t\t#extra img, #lecture img, #missed img, #pathoma img, #bnb img {max-width: 85%; }\n\t#firstaid img, #sketchy img, #physeo img, #additional img {max-width: 60%!important; }\n\n\n/* ~~COLORS~~ */\n/*DEFAULT TEXT COLOR*/ \n\t.card { color: black; }\n/*BACKGROUND COLOR*/ \n\t.card, #tags-container { background-color: #D1CFCE; }\n    /*TIMER COUNTDOWN COLOR*/\n \t.timer { color: transparent; }\n/* CLOZE COLOR */\n\t.cloze { color: blue; }\n/* \"EXTRA\" FIELD COLOR */\n\t#extra { color: navy; }\n/* HINT COLOR*/\n\ta[href=\"#\"] { color: blue; }\n/* HINT REVEAL COLOR */\n\t.hints { color: #4297F9; }\n   /* Missed Questions Reveal Color */\n\t#missed { color: red; }\n       #missed a[href=\"#\"] { color: red!important; }\n\t.nightMode #missed a[href=\"#\"], .night_mode #missed a[href=\"#\"] { color: red!important; }\n\n/* ~~NIGHT MODE COLORS~~ */\n/* NM DEFAULT TEXT COLOR*/ \n\t.nightMode.card, .night_mode .card\n     { color: #FFFAFA !important; }\n/* NM BACKGROUND COLOR*/ \n\t.nightMode.card, .night_mode .card, .nightMode #tags-container, .night_mode #tags-container\n     { background-color: #272828 !important; }\n/* NM CLOZE COLOR */\n \t.nightMode .cloze, .night_mode .cloze { color: #4297F9!important; }\n/* NM \"EXTRA\" FIELD COLOR */\n\t.nightMode #extra, .night_mode #extra { color: magenta; }\n/* NM HINT COLOR */\n\t.nightMode a[href=\"#\"], .night_mode a[href=\"#\"] { color: #4297F9!important; }\n/* NM HINT REVEAL COLOR */\n\t.nightMode .hints, .night_mode .hints { color: cyan;}\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE*/\nb { color: inherit; }\nu { color: inherit; } \ni  { color: inherit; }\n\n/* ~~~~~~~~END CUSTOMIZATION~~~~~~~~ */\n\nhtml { min-height: 100%; display: flex; flex-direction: column; }\n\n#qa { margin-top: 15px; padding-bottom: 2rem; }\n\n/* Formatting For Timer */\n.timer {\nfont-size: 20px;\nmargin: 12em auto auto auto;\n}\n\n/* Styling For Whole Card*/\n.card {\ntext-align: center;\nfont-size: 1rem;\nheight: 100%;\nmargin: 0px 15px;\nflex-grow: 1;\npadding-bottom: 1em;\n}\n.mobile .card { padding-bottom: 5em; }\n\n/* Details For IMAGES */\n.mobile .card img {max-width: 100%!important; }\n.mobile .card {margin: 0ex .3px;}\n\n#extra img { min-width: 30%; }\n.mobile #extra img, .mobile #lecture img, .mobile #missed img, .mobile #pathoma img, .mobile #bnb img, .mobile #firstaid img, .mobile #sketchy img, .mobile #physeo img, .mobile #additional img {max-width: 100%!important; }\n\n/* Classes for individual cards */\n.image40 img { width: 40%!important; }\n.image50 img { width: 50%!important; }\n.image60 img { width: 60%!important; }\n.image70 img { width: 70%!important; }\n.image80 img { width: 80%!important; }\n.image90 img { width: 90%!important; }\n.image40 img, .image50 img, .image60 img, .image70 img, .image80 img, .image90 img { display:block; margin-right:auto; margin-left: auto; }\n.mobile .image40 img, .mobile .image50 img, .mobile .image60 img, .mobile .image70 img, .mobile .image80 img, .mobile .image90 img {width: auto!important;}\n\n/*Compatibility with Image Style Editor add-on*/\n.mobile .card {--w:100%!important;}\n.card {--w:0%;}\n\n/*Max image width for resize images in editor add-on */\n    .card [class^=ui-] img {max-width: 100%!important; }\n\n/*Compatibility with resize images in editor add-on */\n    .resizer {min-width: 0%!important; }\n    .mobile .resizer {min-width:100%!important;}\n\n/*Image hover zoom*/\n#firstaid img:hover { transform:scale(1.5); }\n#sketchy img:hover { transform:scale(1.5); }\n#physeo img:hover { transform:scale(1.5); }\n#additional img:hover { transform:scale(1.5); }\n.mobile #firstaid img:hover { transform:scale(1.0); }\n.mobile #sketchy img:hover { transform:scale(1.0); }\n.mobile #physeo img:hover { transform:scale(1.0); }\n.mobile #additional img:hover { transform:scale(1.0); }\n\n/* Cloze format */\n.cloze { font-weight: bold; }\n\n/* Adjustments For Cloze Edit In Review On Mobile */\n.clozefield, .mobile .editcloze { display: none; }\n.editcloze, .mobile .clozefield { display:  block; }\n\n/* BEGIN HINT FIELDS */\n\n/* Hint Link */\na[href=\"#\"] {\n font-style: italic;\n padding: 0 !important;\n}\n\n/* Text When Hint Is Shown*/\n.hints { font-style: italic; }\n\n/* Put Bottom Hints Lower */\n#firstaid { padding-top: 40px!important; }\n/* #extra { padding-bottom: 40px!important; } */\n\n\n.hints + #extra { margin-top: 1rem; } /*add spacing between hints and extra field*/\n/* END HINT FIELDS  */\n\n/* EXTRA FIELD */\n#extra { font-style: italic; font-size: 1rem;}\n\n\n/* Fix to make pop-up dictionary images the right size */\n.qtip img {\n   max-width: 95% !important;\n   max-height: 95% !important;\n}\n\n/* Details for AnKing hyperlink image */\n#pic { opacity: 0.0; font-size: 16px; font-color: #F2E48E; font-family:Comic Sans!important; font-style:bold;}\n#pic:hover { opacity: 1; transition: opacity 0.2s ease; }\n.mobile #pic { display: none; }\n\n/* TAGS */\n/* Container To Fix Tags At Bottom Of Screen */\n#tags-container{\nposition: fixed;\nbottom: .5px;\nwidth: 100%;\nline-height: .45rem;\nmargin-left: -15px;\n}\n\n/* Clickable Tags (need to download the add-on) */\nkbd {\n display: inline-block;\n letter-spacing: .2px;\n font-weight: bold;\n font-size: 12px !important;\n text-shadow: none !important;\n padding: 0.05rem 0.1rem !important;\n margin: 1px -3px !important;\n border-radius: 4px;\n border-width: 1.5px !important;\n border-style: solid;\n background-color: transparent !important;\n box-shadow: none !important;\n opacity: 0.5;\n vertical-align: middle;\n}\n\n/* Tag Becomes More Visible On Hover */\nkbd:hover { opacity: 1; transition: opacity 0.2s ease; }\n\n/* Tag Colors */\nkbd:nth-of-type(1n+0) { border-color: #F44336; color: #F44336!important; }\nkbd:nth-of-type(2n+0) { border-color: #9C27B0; color: #9C27B0!important; }\nkbd:nth-of-type(3n+0) { border-color: #3F51B5; color: #3F51B5!important; }\nkbd:nth-of-type(4n+0) { border-color: #03A9F4; color: #03A9F4!important; }\nkbd:nth-of-type(5n+0) { border-color: #009688; color: #009688!important; }\nkbd:nth-of-type(6n+0) { border-color: #C0CA33; color: #C0CA33!important; }\nkbd:nth-of-type(7n+0) { border-color: #FF9800; color: #FF9800!important;}\nkbd:nth-of-type(8n+0) { border-color: #FF5722; color: #FF5722!important; }\nkbd:nth-of-type(9n+0) { border-color: #9E9E9E; color: #9E9E9E!important; }\nkbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B!important; }\n\n/* Tag Mobile Adjustments */\n.mobile kbd { opacity: .9; margin: 1px !important; display: inline-block; font-size: 10px !important; }\n.mobile #tags-container {line-height:0.6rem; margin-left: 0px; }\n\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { display: inline-block; } \n.centerbox {text-align:center;}\n\n/*AMBOSS UNDERLINE*/\n.amboss-mark { border-bottom: 2px solid #484a4a !important; padding-bottom: .2px; text-decoration: none !important; }\n/*Start of style added by resize image add-on. Don't edit directly or the edition will be lost. Edit via the add-on configuration */\n.mobile .card img {height:unset  !important; width:unset  !important;}\n/*End of style added by resize image add-on*/",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 16,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 16,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Lecture Notes",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 16,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Pimped",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Peterson's",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Additional Resources",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "zOMFS",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                ""
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<div class=clozefield>{{cloze:Text}}</div>\n\n<!-- EDIT CLOZE DURING REVIEW-change below to  \"edit:cloze:Text\" for editable field, but be sure to have the correct add-on installed-->\n<div class=editcloze>{{edit:cloze:Text}}</div>\n\n<hr>\n\n{{#Lecture Notes}}<div class=hints id=lecture>{{edit:hint:Lecture Notes}}</div>{{/Lecture Notes}}\n\n{{#Pimped}}<div class=hints id=missed>{{hint:Pimped}}</div>{{/Pimped}}\n\n<div class=hints id=pathoma></div>\n\n<div class=hints id=bnb></div>\n\n{{#Extra}}<div id=extra>{{edit:Extra}}</div>{{/Extra}}\n\n<div class=hints id=firstaid></div>\n\n{{#Peterson's}}<div class=hints id=sketchy>{{hint:Peterson's}}</div>{{/Peterson's}}\n\n<div class=hints id=physeo></div>\n\n{{#Additional Resources}}<div class=hints id=additional>{{hint:Additional Resources}}</div>{{/Additional Resources}}\n\n<br>\n<br>\n{{#Tags}}\n<div id=\"tags-container\">{{clickable::Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\n</script>\n{{/Tags}}\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{edit:cloze:Text}}\n\n<div class=\"timer\" id=\"s2\"></div>\n<script>\n//USER CONFIGURATION START\n//Set Timer Length\nvar minutes = 0\nvar seconds = 9\n//USER CONFIGURATION END\n\nfunction countdown( elementName, minutes, seconds )\n{\n    var element, endTime, hours, mins, msLeft, time;\n    function twoDigits( n )\n    {\n        return (n <= 9 ? \"0\" + n : n); \n    }\n    function updateTimer()\n    {\n        msLeft = endTime - (+new Date);\n\n//USER CUSTOMIZATION- you can edit color and text of the 'time expired' readout under the element.innerHTML\n        if ( msLeft < 1000 ) {\n            element.innerHTML = \"<span style='color:#CC5B5B'>!<br/>!<br/>!<br/>!<br/>!<br/>!</span>\";\n        } else {\n            time = new Date( msLeft );\n            hours = time.getUTCHours();\n            mins = time.getUTCMinutes();\n            element.innerHTML = (hours ? hours + ':' + twoDigits( mins ) : mins) + ':' + twoDigits( time.getUTCSeconds() );\n            setTimeout( updateTimer, time.getUTCMilliseconds() + 500 );\n        }\n    }\n    element = document.getElementById( elementName );\n    endTime = (+new Date) + 1000 * (60*minutes + seconds) + 500;\n    updateTimer();\n}\ncountdown(\"s2\", minutes, seconds ); //2nd value is the minute, 3rd is the seconds\n</script>\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>",
+                    "scratchPad": false
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
