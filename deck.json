@@ -3,21 +3,6 @@
     "children": [
         {
             "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "47f47e34-bbc9-11ea-b52d-80c5f289851e",
-            "deck_config_uuid": "47f47e35-bbc9-11ea-a77f-80c5f289851e",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "_AnKingRound.png"
-            ],
-            "name": "New Deck",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
             "children": [
                 {
                     "__type__": "Deck",
@@ -49,6 +34,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "u?Swpfbht9",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -67,6 +53,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "BD=fNbaSQ7",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -85,6 +72,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "LL,M$T?+8q",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -103,6 +91,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "k@;1ZU5RBh",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -121,6 +110,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "x2)R/.-IJ1",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -139,6 +129,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "y~0^T2;X{p",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -157,6 +148,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "K~6Dug$rJ*",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -175,6 +167,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "P(ugD&.7{F",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -193,6 +186,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Q5|lDJ,T0.",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -211,6 +205,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Eg}b[b@qQh",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -229,6 +224,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "i|C.QJtSJY",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -247,6 +243,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "bbXY@%J7P/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -265,6 +262,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "mMAb2#fl~#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -283,6 +281,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "c=G@w6pIaa",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
                                         "!OMFS::Petersons::Part_1_Priniciples_of_Medicine_Surgery_&_Anesthesia::1_Wound_Healing"
@@ -334,6 +333,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "eC&48gWL`.",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -350,6 +350,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "x<m|8k_%d>",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -366,6 +367,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "n6v?-,p!!Z",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -382,6 +384,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "i8;e@K596I",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -398,6 +401,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "y<n?<H:Vgf",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -414,6 +418,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "o/.?,k@Esv",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -430,6 +435,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "FZ41Xnix5+",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -446,6 +452,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hc%inw_Vs?",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -462,6 +469,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "n5,j2!nc#|",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -478,6 +486,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Eh|Tob(~.R",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -494,6 +503,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "m|<Wja7~pE",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -510,6 +520,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "kaE:&6ljS0",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -526,6 +537,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "fF{!}O;I>_",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -542,6 +554,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "l#ufdB*NR2",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -558,6 +571,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "iMry=[uUb^",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -574,6 +588,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "it>=}a2l;b",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -590,6 +605,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "O)${x,#u{R",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -606,6 +622,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "sw&G3>lYsN",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -622,6 +639,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "yOd^|_iEoi",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -638,6 +656,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "t0FXMRtrHW",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -654,6 +673,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "F$d$!rm<*k",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -670,6 +690,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "C0L9b-++b6",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -686,6 +707,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "No%x.Ld$oe",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -702,6 +724,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Ng2&~A[r!%",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -718,6 +741,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "C!$922PXaM",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -734,6 +758,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "LnAO:b1-Ot",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -750,6 +775,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Lb?GtkWAwc",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 }
@@ -784,6 +810,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "u4U<C7sU/l",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -800,6 +827,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "C|X;hT>,34",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -816,6 +844,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "u}+b:WFn8U",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -832,6 +861,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "JwpTWa%wgE",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -848,6 +878,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "p)$(SI8X1)",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -864,6 +895,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "l|STxtAYx,",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -880,6 +912,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "J_okQhR4i_",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -896,6 +929,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "pCpsgB=uYE",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -912,6 +946,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "IjmzSoxHe|",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -928,6 +963,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "NIU4g0/&:#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -944,6 +980,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "D~a_MNH=p)",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -960,6 +997,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "J9!H+?48(V",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -976,6 +1014,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "oxg-?vG|T-",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -992,6 +1031,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "O@MG]Bk2#f",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1008,6 +1048,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Ep:vjUwjM9",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1024,6 +1065,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Cf0y}sgL9R",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1040,6 +1082,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "LgOOXHKQ&N",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1056,6 +1099,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "niljXI3AGA",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1072,6 +1116,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "k?z14}lK1l",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1088,6 +1133,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Jj)(qHytH:",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1104,6 +1150,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "HD!HV2OODR",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1120,6 +1167,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "OirkdwWFa#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1136,6 +1184,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "fZ;z!rMV7A",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1152,6 +1201,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "xa/)V*-43{",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1168,6 +1218,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "sSwb2;LZ)n",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1184,6 +1235,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "v<~Ne;)/{@",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1200,6 +1252,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "f2/1S_[,Hl",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1216,6 +1269,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "H&o=cJ#S1i",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1232,6 +1286,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "r}6;IJ#Pa}",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1248,6 +1303,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "gPT<5kAGXf",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1264,6 +1320,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "H7,P<s_WTs",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1280,6 +1337,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "qj-x[22@Ua",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 }
@@ -1331,6 +1389,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "C+z=55yEBI",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1347,7 +1406,518 @@
                                     ],
                                     "flags": 0,
                                     "guid": "se1<S+=m`Q",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Incision over the anterior belly of digastric leads to&nbsp;{{c1::Submandibular,Submental,Sublingual::3}} spaces&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "LlhsQ,M<8I",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Indications of Hospital Admission includes:<div>{{c1::Dehydration}}</div><div>{{c2::Threat to airway or vital structures}}</div><div>{{c3::Need for general anesthesia}}</div><div>{{c4::Need for inpatient control of systemic disease}}</div><div>{{c5::Temperature over 101F}}<br></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "KAeBkMD>xe",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Adequate&nbsp;{{c1::Hydration}} is best method for controlling fever&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "IFb53rx.^=",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Specific gravity greater than&nbsp;{{c1::&gt;1.030}} indicates {{c2::dehydration&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "mgv}n#s^?a",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c2::E. Corrodens}} is COMPLETELY resistant to&nbsp;{{c1::Clindamycin}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "Qg6kVl9d:k",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Diabetes}}&nbsp;have a combination of white blood cell {{c2::migration defect}} and {{c3::a vascular defect}} that {{c4::impair blood flow}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "lsO4sEpCOW",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Every patient of malignant disease has some {{c1::defect}} of the {{c2::immune system&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "dnZMHxh^tg",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "All patient who received cancer chemotherapy with the past {{c2::one}} year should be considered {{c1::immunocompromised}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "w%`+}=M}%:",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::Dehydration}} can be assessed in the presence of normal serum creatinine by an {{c2::elevated}} {{c3::specific gravity}} {{c4::(&gt;1.030)}} or elevated BUN which indicates pre-renal azotemia",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "zu7yU]q#59",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "pathway for odontogenic infection to enter the submandibular space is through the {{c2::thin }} {{c3::lingual}} plate of the mandible {{c1::(root apices of lower molar teeth)}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "j]dU$y(v6f",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "wound irrigation is facilitated by using {{c1::Jackson-Pratt-type drain}} which is {{c2::noncollapsible}} and {{c2::perforated&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "w,a;*Qx+&(",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c2::Initial temperature}} has been shown to be a significant predictor of the {{c1::length}} of hospital stay with severe odontogenic infections&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "vCc>!!!}MP",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Fever below 103F is probably {{c1::beneficial&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "#/{Zw$t:-",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c3::Mild}} temperature elevations promote {{c2::phagocytosis,}} {{c1::increase}} blood flow to the affected area and raise the metabolic rate&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "B>*qFy`)>f",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Antibiotics is not indicated in the first {{c1::7}} days of acute sinusitis unless signs of {{c1::invasive}} infection and severe {{c1::systemic }} reaction are present&nbsp;",
+                                        "",
+                                        "This is because nearly all early sinusitis is viral",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "L;y#JCs+{V",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Treatment of bacterial sinusitis include first in line {{c1::amoxicillin}}, {{c1::doxycycline}} and {{c1::TMP-SMX}} (Cotrimoxozole)&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "ir^&a;:UF?",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "In the case of infectious invasion of the surrounding tissues, {{c1::antibiotics}} should be continued {{c1::7}} days after symptoms have resolved.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "G=pA]lFnI~",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Sinusitis is conisdered bacterial and acute between {{c2::10}} days to {{c1::4}} weeks&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "iZU=RG1ZM8",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Sinusitis is considered {{c2::chronic}} after {{c1::8}} weeks of symptoms&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "A{2o:Gz8|#",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::recurrent}} sinusitis is {{c2::4}} or more episodes within {{c3::one}} year&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "p9(z80-*i]",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c1::CT}} is the radiologic examination of choice in {{c2::confirming}} diagnosis of sinusitis&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "eOmdZttfA+",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "majority of {{c2::acute}} sinusitis is caused by {{c1::virus&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "j,w744*~Hl",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Most common causes of acute Bacterial sinusitis {{c2::S. Pneumo}},&nbsp; {{c2::Haemophilus influenzae}}, {{c1::Moraxella catarrhalis}}",
+                                        "Chow AW, Benninger MS, Brook I, Brozek JL, Goldstein EJ, Hicks LA, \nPankey GA, Seleznick M, Volturo G, Wald ER, File TM., Infectious \nDiseases Society of America.  IDSA clinical practice guideline for acute\n bacterial rhinosinusitis in children and adults. Clin. Infect. Dis. 2012 Apr;54(8):e72-e112.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "r]fyiK[tX>",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "A rare cause of acute rhinosinusitis is {{c1::fungal}} infection&nbsp;",
+                                        "Most exclusively in immunocompromised individuals ;&nbsp;<i>Mucor</i>, <i>Rhizopus</i>, <i>Rhizomucor</i>, and <i>Aspergillus</i>.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "v8bAp716P,",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "Radiologic signs of sinusitis include thickening of the mucosal sinus lining &gt;{{c1::4}}mm&nbsp;",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "G[^E6F=gEq",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c2::Sinusitis}} is usually constant dull ache to throbbing pain usually exacerbated by {{c1::bending over}} or {{c1::straining&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "hY?>^fF{]u",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "In the event of treatment failure one of the best methods of re-evaluation is post op {{c1::CT&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "A~8Q|l3}>E",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "The best available clinical test for ability to extubate in the case of upper airway selling is the {{c1::air leak test&nbsp;}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "L/3%)P5Yn?",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "There is {{c1::little}} evidence to indicate that {{c1::frequent}} wound irrigation {{c2::hastens}} the resolution of infection&nbsp;",
+                                        "However it does make clinical sense to remove by irrigation pus clots and necrotic tissue",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "mS,P*5)5-&",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "{{c5::When to go the OR include}}<div>{{c4::Moderate to high anatomic severity }}<div>{{c3::Multiple Space involvement }}</div><div>{{c2::Rapidly progressing infection }}</div><div>{{c1::Need for general anesthesia&nbsp;}}<br></div></div><div>{{c6::To establish airway security}}<br></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "zT/1u8K8C0",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
                                     "tags": []
                                 },
                                 {
@@ -1363,6 +1933,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "AK%3i=.*TA",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1379,6 +1950,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "D.[=:TRZu[",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1395,6 +1967,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ht+N$rzS|8",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1411,6 +1984,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ARU,szS}%&",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1427,6 +2001,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "DE`sh:|%/~",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1443,6 +2018,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Ny0x!O:ce/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1459,6 +2035,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ubUW0:Xj&J",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1475,6 +2052,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "GrSUU=G`;Z",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1491,6 +2069,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "k_}?I}mmyr",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1507,6 +2086,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "CDbKZ8`G2F",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1523,6 +2103,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "tE}67H.DZ+",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1539,6 +2120,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "MedYMX{:ei",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1555,6 +2137,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "nI&=Atx*j>",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1571,6 +2154,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "pUyU/g=x|*",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1587,6 +2171,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "fuP(Hb`S{k",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1603,6 +2188,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "q:psKJx9S1",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1619,6 +2205,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "MmsGU8^27{",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1635,6 +2222,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "L5[!i9;Qr[",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1651,6 +2239,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "kcQW_3{N?5",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1667,6 +2256,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "s7=Mw/N;ru",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1683,6 +2273,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "b/:TMb.DTA",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1699,6 +2290,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "mzg:T?N!$?",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1715,6 +2307,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "QeCNsWJ?7Y",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1731,6 +2324,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "PUMq51^1-<",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1747,6 +2341,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Mq9HYXTRO`",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1763,6 +2358,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "O7fh/`*;lR",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1779,6 +2375,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "x+671c3&=?",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1795,6 +2392,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "J`<-3V,FVp",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1811,6 +2409,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "k_;,~F[%?(",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1827,6 +2426,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "oF-e]v!s1/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1843,6 +2443,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ipA{*,ISwy",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1859,6 +2460,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "kGnHFYeoEd",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1875,6 +2477,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "CBxlIA46qR",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1891,6 +2494,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "qXUrMT*D=Y",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1907,6 +2511,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "D#OgoL8Y`I",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1923,6 +2528,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ENNw)W:qy*",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1939,6 +2545,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "t[sY=8He2U",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1955,6 +2562,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "khHS>H|)#&",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1971,6 +2579,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "qVa^R%pdl2",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -1987,6 +2596,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "cWnTLW4!n`",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2003,6 +2613,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "gp!wz=Q)`1",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2019,6 +2630,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "u~PQ<?Ywhm",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2035,6 +2647,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "qzGC-`3PC[",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2051,6 +2664,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "JhKK,u&HFl",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2067,6 +2681,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "lq]@C*ixtR",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2083,6 +2698,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "v9:;`]G-,{",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2099,6 +2715,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "P[icn+;ZAI",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2115,6 +2732,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ue!FPp%k&4",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2131,6 +2749,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "f}`Dh*Y!Wv",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2147,6 +2766,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "O<IL~o^$=-",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2163,6 +2783,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "nmP~#y_xHn",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2179,6 +2800,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "B@~<Tq>tRZ",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2195,6 +2817,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "f%qcd}Nx2P",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2211,6 +2834,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "swH}!]yZC4",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2227,6 +2851,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Ms#G;,}+p#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2243,6 +2868,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "tECwUiPc]D",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2259,6 +2885,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "H6`tv@|VS}",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2275,6 +2902,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "BCzo=Nexe~",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2291,6 +2919,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "q{:-v*/y6b",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2307,6 +2936,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "y~{%<pGa/p",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2323,6 +2953,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "erCvc]W!I+",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2339,6 +2970,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "zuQYVp}kBp",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2355,6 +2987,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Hz<v_PQ4Q/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2371,6 +3004,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ne(%kyP8Q/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2387,6 +3021,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "r]wP8,6YjW",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2403,6 +3038,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hnlL$!+/oX",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2419,6 +3055,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hqa|k$3@z<",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2435,6 +3072,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Q2)s~Q<MHj",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2451,6 +3089,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "JJd+xUu.,z",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2467,6 +3106,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "PT$.()=pFp",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2483,6 +3123,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "e/=H)hKyX#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2499,6 +3140,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "QF9&d`^=Y%",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2515,6 +3157,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "c=iw]z7*fI",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2531,6 +3174,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "EMJplTE5jt",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2547,6 +3191,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "xVh{kz]i;(",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2563,6 +3208,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "P(|=Q4iuIx",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2579,6 +3225,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "b)eegeVTUR",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2595,6 +3242,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "lk87}c#t:b",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2611,6 +3259,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hEJspLzZPC",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2627,6 +3276,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "u(UhWE3y!L",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2643,6 +3293,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "vH,jvp8,SV",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2659,6 +3310,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "P_MM4mw#yb",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2675,6 +3327,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "c#c[Vc[tX%",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2691,6 +3344,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "HAv@O`Jk_K",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2707,6 +3361,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "g!1[E(C]`R",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2723,6 +3378,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Ai:6KUyLx7",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2739,6 +3395,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "KP_C,G?TXh",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2755,6 +3412,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "qw34ZNj{U]",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2771,6 +3429,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "FGC!^<(-*a",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2787,6 +3446,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "HY`q8sp&3_",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2803,6 +3463,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "pSXU}f@?eu",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2819,6 +3480,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "FwiUljlM+!",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2835,6 +3497,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hR0FUfA|4e",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2851,6 +3514,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "yiFGFO(6Yt",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2867,6 +3531,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "kRq7de.J@?",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2883,6 +3548,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "zAt2_>zA7H",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2899,6 +3565,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "rOJG:FkCz2",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2915,6 +3582,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "yUG|bx+c`g",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2931,6 +3599,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "vvpM>0,UKf",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2947,6 +3616,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "dRTP|NS:oc",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2963,6 +3633,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "zgh74i&_(l",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2979,6 +3650,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "k%OVS!XC{O",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -2995,6 +3667,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "OT=0xZW#fj",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3011,6 +3684,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "CH#,a0cG+E",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3027,6 +3701,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "f9n5K|vcFV",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3043,6 +3718,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "lU@^~h&1l.",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3059,6 +3735,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "vM86vz<Tkr",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3075,6 +3752,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "tV#2$Tf5v(",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3091,6 +3769,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "wACN]YWHs#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3107,6 +3786,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "lc!ziG,D8R",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 }
@@ -3255,6 +3935,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "tL*)@A?V7/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3271,6 +3952,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "IGl*$GRHW:",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3287,6 +3969,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Le%H(]o(U(",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3303,6 +3986,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "yJuF&z/*%{",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3319,6 +4003,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "dhIdcm@<*N",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3335,6 +4020,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "K@61Lmx_^:",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3351,6 +4037,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "AS[n#xN3aN",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3367,6 +4054,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "rn1~xrPAWq",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3383,6 +4071,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "J9ADJYXHvz",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3399,6 +4088,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Hrv2ybDq8s",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3415,6 +4105,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "B^551h`ua]",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3431,6 +4122,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "d@-0Op1M9x",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3447,6 +4139,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "cC,/H*2HI5",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3463,6 +4156,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "bcXA.y0:}_",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3479,6 +4173,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "E95Q(x$f-w",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3495,6 +4190,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "IFB&O0t-n/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3511,6 +4207,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "P&tmxpf=1)",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3527,6 +4224,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "p<2X{Xx-hj",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3543,6 +4241,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "fKFZ^K!qAb",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3559,6 +4258,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "bl79(6z~IO",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3575,6 +4275,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "t-T-$7XwY#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -3596,6 +4297,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "lhuYT5obBz",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3617,6 +4319,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "HG%<k.5):$",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3638,6 +4341,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "l8Qmg5mb|x",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3659,6 +4363,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "jrR9WErrod",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3680,6 +4385,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "v(sd}lWjQ9",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3701,6 +4407,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "j6Q(Vct^v9",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3722,6 +4429,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "d{>hmA6J{G",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3743,6 +4451,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Mq;i:Vnns/",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3764,6 +4473,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "c.S1ua`|Pa",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3785,6 +4495,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "o/znj1GWd@",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3806,6 +4517,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "p?vJx^8(]h",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3827,6 +4539,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "DhC~|[sFNw",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3848,6 +4561,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "sECK7;k>B2",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3869,6 +4583,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "n%p?;oDj[G",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3890,6 +4605,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "&avLy!)iJ",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3911,6 +4627,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Tty7T][@6",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3932,6 +4649,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Gj(dsg:|n-",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3953,6 +4671,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "gl6qPW=EM*",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3974,6 +4693,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "uz:%[e;zRH",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -3995,6 +4715,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "]GeSBlsIA",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4016,6 +4737,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "KeU>8DC%ps",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4037,6 +4759,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Fw+JroN2gp",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4058,6 +4781,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "ec0lI$n4Q;",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4079,6 +4803,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "tP|o,I*M.Q",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4100,6 +4825,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "rh3r.#jyhs",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4121,6 +4847,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "tk7[hdrrn1",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4142,6 +4869,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "N!BN**R[[V",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4163,6 +4891,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "yg*Cnoymn?",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4184,6 +4913,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "yxXllrilF,",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4205,6 +4935,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "DA*uz9^qI<",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4226,6 +4957,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "yb9y^_eobz",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4247,6 +4979,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hxH`:iv^!l",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4268,6 +5001,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hNYyK{X4#!",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4289,6 +5023,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "twwGW!xh.y",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4310,6 +5045,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Lq,PDG,J3j",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "0a7c7b04-bfbc-11ea-bb8a-80c5f289851e",
                                     "tags": []
                                 },
@@ -4326,6 +5062,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "hO:dG#~)z:",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4342,6 +5079,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "xBb/{6h6k~",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4358,6 +5096,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "B-~IH1),]I",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4374,6 +5113,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "I&9q@JQ?SL",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4390,6 +5130,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "g{q,wCEUrQ",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4406,6 +5147,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "FFuC$0?s+=",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4422,6 +5164,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "z/C-$yMDO#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4438,6 +5181,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "c.`]p8gO6o",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4454,6 +5198,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "i:LMy=e-kc",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4470,6 +5215,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Py){yAz,aU",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4486,6 +5232,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Ku9:F*lZaO",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4502,6 +5249,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "qg^M#AAf;t",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4518,6 +5266,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "i|p[gKXq$}",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4534,6 +5283,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "p08u4Y*eRZ",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4550,6 +5300,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "AA`ZEkZ~]a",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4566,6 +5317,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "L~)9Xf|!UF",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4582,6 +5334,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "KEO{]_CHn=",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4598,6 +5351,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "rXf]w90mM?",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4614,6 +5368,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "w7>^1GK%U#",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4630,6 +5385,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "DJ[iS>7%FZ",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4646,6 +5402,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "Lv7_j`K8oH",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4662,6 +5419,7 @@
                                     ],
                                     "flags": 0,
                                     "guid": "i:2~vj(QlQ",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": []
                                 },
@@ -4678,11 +5436,12 @@
                                     ],
                                     "flags": 0,
                                     "guid": "jdHlL3@g#u",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
-                                        "antibiotic",
                                         "As",
                                         "Augmentin\nis",
+                                        "antibiotic",
                                         "bite",
                                         "choice",
                                         "common",
@@ -4710,11 +5469,12 @@
                                     ],
                                     "flags": 0,
                                     "guid": "f$eFKCSx1$",
+                                    "newlyAdded": false,
                                     "note_model_uuid": "2a95ea29-bbc8-11ea-928e-80c5f289851e",
                                     "tags": [
-                                        "antibiotic",
                                         "As",
                                         "Augmentin\nis",
+                                        "antibiotic",
                                         "bite",
                                         "choice",
                                         "common",
@@ -4728,6 +5488,431 @@
                                         "with",
                                         "wounds,"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Eyelid avulsion wounds require immediate {{c1::ophthalmic antibiotic ointment}} and an occlusive eye shield to prevent\nexposure {{c2::keratopathy.&nbsp;}}</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "h2{m:[Ul~E",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>{{c1::Berk, Osbourne, and Tay-\nlor}} found that wound age was of little concern in wounds\nlocated on the {{c2::scalp and face&nbsp;}}</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "rv]>ZEK>E|",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Synthetic nonabsorbable suture materials such as {{c1::nylon}}\nand {{c2::Prolene}} have long been the gold standard for {{c3::cuticular/skin}} closure.&nbsp;&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "tGlZ%rx{Vy",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>{{c2::Nylon}} has a high level of {{c1::elasticity}} and retains the most {{c1::tensile}} strength of all synthetic materials.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "pG2NbVRA&}",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Prolene has\nthe most pliability and knot-holding characteristic and is\nexcellent for {{c1::cuticular}} closure as well as {{c2::{{c3::vascular repair}} and\napproximation.&nbsp;}}</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "Qik2EuRRLj",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Ideally, closure of facial soft tissue injuries\nshould occur within the first {{c1::8}} hours after injury.&nbsp;&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<div>\n<div>\n<div>\n<div>Soft tissue swelling associated with delay in wound closure can\nobscure anatomic landmarks and make primary closure\nmore difficult.&nbsp;&nbsp;</div>\n</div>\n</div></div>"
+                                    ],
+                                    "flags": 0,
+                                    "guid": "jaa*Y+(*{K",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Pediatric patients who do not tolerate injection of local\nanesthesia may require conscious sedation for proper management of soft tissue injuries larger than {{c1::3}} centimeters in\nlength.&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "pDJV%f<c}G",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>If wound contamination\nis present, wounds can be cleaned with a surgical antiseptic,\npreferably {{c1::chlorhexidine gluconate&nbsp;}}</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "gr$:/4iHUc",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Care must be taken\nnot to scrub the wound because this can increase {{c1::inflammation}} and result in {{c1::poor esthetic outcome.}}&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "tm%]_xt(_j",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>&nbsp;Irrigation\nvolumes of {{c1::50 to 100 mL}} per cm of laceration length have\nbeen reported to be appropriate for contaminated wounds.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "OFbUa-K$,>",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<ol>\n<li>\n<div>In high velocity or blast injuries, primary soft tissue closure is frequently\nnot possible due to the need for multiple debridements.\nClinically superior outcomes result from {{c1::early}} {{c2::soft tissue}} reconstruction, which prevents significant {{c3::contracture}} and\nprovides better coverage for later osseous reconstruction.</div>\n</li></ol></div></div></div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "Pe|7%agn_j",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<ol>\n<li>\n<div><span style=\"color: rgb(0, 128, 172);\"></span>&nbsp;{{c1::Computed tomography angiography}} (CTA) is needed to evaluate recipient vessels for free flap reconstruction in patients\nwith complex wounds.&nbsp;</div>\n</li></ol></div></div></div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "jyt4)RKFWG",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<ol>\n<li>\n<div>{{c1::CTA}} is the definitive method to evaluate vessel patency\nand integrity.&nbsp;</div>\n</li></ol></div></div></div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "yZm&ck/Hy8",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Head {{c1::CT}} should be performed to rule\nout skull fractures prior to closure of {{c2::scalp}} lacerations&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "F#Y^#&UL?}",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Scalp lacerations with defects smaller that {{c1::3}} cm can be\nclosed primarily in most cases.&nbsp;&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "Elv;T<Y2W]",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Avulsion wounds\nof the scalp that are a result of blunt or shear forces have\n{{c1::poor}} prognosis due to the vascular {{c2::intimal}} damage that\npropagates proximal and distal within the vessels,&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "e#4]>-a1mm",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Avulsion defects that are smaller can be\nmanaged with rotational flaps or advancement local flaps\nbased off the {{c1::supraorbital}} or {{c1::supratrochlear}} vessels.&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "qj=Jw)%yPa",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Closure materials include {{c1::5-0 and\n6-0 plain gut}} for conjunctiva and orbicularis followed by\n{{c2::5-0 or 6-0 fast}}-absorbable plain gut or 6-0 nonabsorbable\nsutures for skin closure.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "C+j++g~186",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>In lower lid lacerations anatomic approxima-\ntion and support are important to prevent {{c1::ectropion}}.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "Ectropion a condition in which your eyelid turns outward."
+                                    ],
+                                    "flags": 0,
+                                    "guid": "g;etQ#Jq!7",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Lacerations of the lid margin and tarsal plate must be\napproximated {{c1::anatomically}} and the lid margin {{c2::everted}} with\n{{c3::vertical mattress}} sutures using {{c4::6-0 silk}} to prevent {{c5::notching&nbsp;}}</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "M4,ve$.58O",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>In upper lid lacerations {{c1::levator aponeurosis}} integrity is important to establish to prevent {{c2::post-operative ptosis.&nbsp;&nbsp;}}</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>When necessary, anatomic approximation of the aponeurosis with the tarsal plate can be performed with 6-0 or 7-0\npolyglactin sutures placed central, medial, and lateral.<span style=\"color: rgb(0, 128, 172);\">27&nbsp;</span></div>\n</div>\n</div>\n</div></div>"
+                                    ],
+                                    "flags": 0,
+                                    "guid": "c5/#ED{x_2",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Medial lid lacerations require evaluation of the {{c1::lacrimal\nducts}} and {{c1::canaliculi}}&nbsp;&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "Gf8MAFJX7c",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Partial-thickness loss greater than {{c1::50}} % of either upper or lower lid requires {{c2::full-thickness}}\nskin graft.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "t9DWQCm($o",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>Lateral canthus can be\nrecreated with suture repair of the {{c1::lower lid}} {{c2::tarsus}} to the {{c3::lateral orbit}} placed inside the rim.&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "mohbCTMkx+",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "data": "",
+                                    "fields": [
+                                        "<div>\n<div>\n<div>\n<div>&nbsp;Medial canthus lacerations\nfrequently involve the {{c2::canaliculi}} or {{c4::lacrimal apparatus}} and\nshould be addressed with ophthalmologic consultation and\nthe {{c1::Jones dye test.}}&nbsp;</div>\n</div>\n</div></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "flags": 0,
+                                    "guid": "px0Q[{$|>0",
+                                    "newlyAdded": false,
+                                    "note_model_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+                                    "tags": []
                                 }
                             ]
                         }
@@ -4851,48 +6036,8 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "47f47e35-bbc9-11ea-a77f-80c5f289851e",
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    7
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
             "crowdanki_uuid": "2a95d6c6-bbc8-11ea-9d62-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -4934,6 +6079,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "2a95ea22-bbc8-11ea-8ebe-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -4975,6 +6121,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "2a95ea26-bbc8-11ea-9569-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5016,6 +6163,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "29ab1cd1-bfbc-11ea-abba-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5057,6 +6205,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "29ab302b-bfbc-11ea-8880-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5098,6 +6247,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "29ab6a5b-bfbc-11ea-a0a9-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5139,6 +6289,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "2a9610e3-bbc8-11ea-a4fe-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5180,6 +6331,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "2a9610e7-bbc8-11ea-bb2e-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5221,6 +6373,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "29acc709-bfbc-11ea-876a-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5262,6 +6415,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "29acc70d-bfbc-11ea-92da-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5303,6 +6457,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "29acc711-bfbc-11ea-90a0-80c5f289851e",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -5413,7 +6568,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "zOMFS",
+            "name": "zOMFS-35d10",
             "req": [
                 [
                     0,
@@ -5443,6 +6598,98 @@
                 "wounds,",
                 ""
             ],
+            "tmpls": [
+                {
+                    "afmt": "<div class=clozefield>{{cloze:Text}}</div>\n\n<!-- EDIT CLOZE DURING REVIEW-change below to  \"edit:cloze:Text\" for editable field, but be sure to have the correct add-on installed-->\n<div class=editcloze>{{edit:cloze:Text}}</div>\n\n<hr>\n\n{{#Lecture Notes}}<div class=hints id=lecture>{{edit:hint:Lecture Notes}}</div>{{/Lecture Notes}}\n\n{{#Pimped}}<div class=hints id=missed>{{hint:Pimped}}</div>{{/Pimped}}\n\n<div class=hints id=pathoma></div>\n\n<div class=hints id=bnb></div>\n\n{{#Extra}}<div id=extra>{{edit:Extra}}</div>{{/Extra}}\n\n<div class=hints id=firstaid></div>\n\n{{#Peterson's}}<div class=hints id=sketchy>{{hint:Peterson's}}</div>{{/Peterson's}}\n\n<div class=hints id=physeo></div>\n\n{{#Additional Resources}}<div class=hints id=additional>{{hint:Additional Resources}}</div>{{/Additional Resources}}\n\n<br>\n<br>\n{{#Tags}}\n<div id=\"tags-container\">{{clickable::Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\n</script>\n{{/Tags}}\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{edit:cloze:Text}}\n\n<div class=\"timer\" id=\"s2\"></div>\n<script>\n//USER CONFIGURATION START\n//Set Timer Length\nvar minutes = 0\nvar seconds = 9\n//USER CONFIGURATION END\n\nfunction countdown( elementName, minutes, seconds )\n{\n    var element, endTime, hours, mins, msLeft, time;\n    function twoDigits( n )\n    {\n        return (n <= 9 ? \"0\" + n : n); \n    }\n    function updateTimer()\n    {\n        msLeft = endTime - (+new Date);\n\n//USER CUSTOMIZATION- you can edit color and text of the 'time expired' readout under the element.innerHTML\n        if ( msLeft < 1000 ) {\n            element.innerHTML = \"<span style='color:#CC5B5B'>!<br/>!<br/>!<br/>!<br/>!<br/>!</span>\";\n        } else {\n            time = new Date( msLeft );\n            hours = time.getUTCHours();\n            mins = time.getUTCMinutes();\n            element.innerHTML = (hours ? hours + ':' + twoDigits( mins ) : mins) + ':' + twoDigits( time.getUTCSeconds() );\n            setTimeout( updateTimer, time.getUTCMilliseconds() + 500 );\n        }\n    }\n    element = document.getElementById( elementName );\n    endTime = (+new Date) + 1000 * (60*minutes + seconds) + 500;\n    updateTimer();\n}\ncountdown(\"s2\", minutes, seconds ); //2nd value is the minute, 3rd is the seconds\n</script>\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>",
+                    "scratchPad": false
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8d5886d2-bfd3-11ea-84c3-a0999b0415f3",
+            "css": "/*  Cloze-AnKingMaster V6  */\n\n/*~~~~~~~~USER CUSTOMIZATION START~~~~~~~~~*/\n/* You can choose colors at www.htmlcolorcodes.com */\n\n/* TIMER ON/OFF */\n.timer { display: none; } /* 'none' or 'block' */\n/* TAGS ON/OFF DESKTOP & MOBILE*/\n\t#tags-container { display: none; } /* ‘none’ or ‘block’ */\n.mobile #tags-container { display: none; } /* ‘none’ or ‘block’ */\n/* MOVE TAGS UP FOR 'NO-DISTRACTIONS' ADD-ON */\n#tags-container{ padding-bottom: 0px; } /* 0 normal, 55 to move up */\n/* ANKING IMAGE HYPERLINK ON/OFF */\n\t#pic {display: none; } /* 'none' or 'block' */\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { text-align:left; } \n\n/*FONT SIZE*/\n     /* DESKTOP */ html \n\t{ font-size: 28px; }\n     /* MOBILE */ .mobile\n         { font-size: 28px; }\n\t\t/* NOTE: anything with 'px' will keep a font that size indefinitely, 'rem' is a fraction of this size above and allows all text to change size with the above setting */\n\n/*IPAD ADJUSTMENTS*/\n.ipad .card, .ipad #extra {font-size:28px;}\n.ipad .hints {font-size:24px;}\n.ipad #firstaid, .ipad #sketchy, .ipad #physeo, .ipad #additional { font-size: 20px!important; }\n\n/*HINT FONT SIZE*/ .hints \n\t{ font-size: .85rem; }\n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size*/\n\t#firstaid, #sketchy, #physeo, #additional { font-size: .5rem !important; } \n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size on Mobile*/\n\t.mobile #firstaid, .mobile #sketchy, .mobile #physeo, .mobile #additional { font-size: 20px!important; }\n\n/*FONT STYLE*/\t\n\t.card, kbd { font-family: Arial Greek, Arial; } /*Step exam's font is Arial Greek*/\n/*MAX IMAGE HEIGHT*/\n\timg {max-height: none; }\n /*MAX IMAGE WIDTH*/\n\t\t#extra img, #lecture img, #missed img, #pathoma img, #bnb img {max-width: 85%; }\n\t#firstaid img, #sketchy img, #physeo img, #additional img {max-width: 60%!important; }\n\n\n/* ~~COLORS~~ */\n/*DEFAULT TEXT COLOR*/ \n\t.card { color: black; }\n/*BACKGROUND COLOR*/ \n\t.card, #tags-container { background-color: #D1CFCE; }\n    /*TIMER COUNTDOWN COLOR*/\n \t.timer { color: transparent; }\n/* CLOZE COLOR */\n\t.cloze { color: blue; }\n/* \"EXTRA\" FIELD COLOR */\n\t#extra { color: navy; }\n/* HINT COLOR*/\n\ta[href=\"#\"] { color: blue; }\n/* HINT REVEAL COLOR */\n\t.hints { color: #4297F9; }\n   /* Missed Questions Reveal Color */\n\t#missed { color: red; }\n       #missed a[href=\"#\"] { color: red!important; }\n\t.nightMode #missed a[href=\"#\"], .night_mode #missed a[href=\"#\"] { color: red!important; }\n\n/* ~~NIGHT MODE COLORS~~ */\n/* NM DEFAULT TEXT COLOR*/ \n\t.nightMode.card, .night_mode .card\n     { color: #FFFAFA !important; }\n/* NM BACKGROUND COLOR*/ \n\t.nightMode.card, .night_mode .card, .nightMode #tags-container, .night_mode #tags-container\n     { background-color: #272828 !important; }\n/* NM CLOZE COLOR */\n \t.nightMode .cloze, .night_mode .cloze { color: #4297F9!important; }\n/* NM \"EXTRA\" FIELD COLOR */\n\t.nightMode #extra, .night_mode #extra { color: magenta; }\n/* NM HINT COLOR */\n\t.nightMode a[href=\"#\"], .night_mode a[href=\"#\"] { color: #4297F9!important; }\n/* NM HINT REVEAL COLOR */\n\t.nightMode .hints, .night_mode .hints { color: cyan;}\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE*/\nb { color: inherit; }\nu { color: inherit; } \ni  { color: inherit; }\n\n/* ~~~~~~~~END CUSTOMIZATION~~~~~~~~ */\n\nhtml { min-height: 100%; display: flex; flex-direction: column; }\n\n#qa { margin-top: 15px; padding-bottom: 2rem; }\n\n/* Formatting For Timer */\n.timer {\nfont-size: 20px;\nmargin: 12em auto auto auto;\n}\n\n/* Styling For Whole Card*/\n.card {\ntext-align: center;\nfont-size: 1rem;\nheight: 100%;\nmargin: 0px 15px;\nflex-grow: 1;\npadding-bottom: 1em;\n}\n.mobile .card { padding-bottom: 5em; }\n\n/* Details For IMAGES */\n.mobile .card img {max-width: 100%!important; }\n.mobile .card {margin: 0ex .3px;}\n\n#extra img { min-width: 30%; }\n.mobile #extra img, .mobile #lecture img, .mobile #missed img, .mobile #pathoma img, .mobile #bnb img, .mobile #firstaid img, .mobile #sketchy img, .mobile #physeo img, .mobile #additional img {max-width: 100%!important; }\n\n/* Classes for individual cards */\n.image40 img { width: 40%!important; }\n.image50 img { width: 50%!important; }\n.image60 img { width: 60%!important; }\n.image70 img { width: 70%!important; }\n.image80 img { width: 80%!important; }\n.image90 img { width: 90%!important; }\n.image40 img, .image50 img, .image60 img, .image70 img, .image80 img, .image90 img { display:block; margin-right:auto; margin-left: auto; }\n.mobile .image40 img, .mobile .image50 img, .mobile .image60 img, .mobile .image70 img, .mobile .image80 img, .mobile .image90 img {width: auto!important;}\n\n/*Compatibility with Image Style Editor add-on*/\n.mobile .card {--w:100%!important;}\n.card {--w:0%;}\n\n/*Max image width for resize images in editor add-on */\n    .card [class^=ui-] img {max-width: 100%!important; }\n\n/*Compatibility with resize images in editor add-on */\n    .resizer {min-width: 0%!important; }\n    .mobile .resizer {min-width:100%!important;}\n\n/*Image hover zoom*/\n#firstaid img:hover { transform:scale(1.5); }\n#sketchy img:hover { transform:scale(1.5); }\n#physeo img:hover { transform:scale(1.5); }\n#additional img:hover { transform:scale(1.5); }\n.mobile #firstaid img:hover { transform:scale(1.0); }\n.mobile #sketchy img:hover { transform:scale(1.0); }\n.mobile #physeo img:hover { transform:scale(1.0); }\n.mobile #additional img:hover { transform:scale(1.0); }\n\n/* Cloze format */\n.cloze { font-weight: bold; }\n\n/* Adjustments For Cloze Edit In Review On Mobile */\n.clozefield, .mobile .editcloze { display: none; }\n.editcloze, .mobile .clozefield { display:  block; }\n\n/* BEGIN HINT FIELDS */\n\n/* Hint Link */\na[href=\"#\"] {\n font-style: italic;\n padding: 0 !important;\n}\n\n/* Text When Hint Is Shown*/\n.hints { font-style: italic; }\n\n/* Put Bottom Hints Lower */\n#firstaid { padding-top: 40px!important; }\n/* #extra { padding-bottom: 40px!important; } */\n\n\n.hints + #extra { margin-top: 1rem; } /*add spacing between hints and extra field*/\n/* END HINT FIELDS  */\n\n/* EXTRA FIELD */\n#extra { font-style: italic; font-size: 1rem;}\n\n\n/* Fix to make pop-up dictionary images the right size */\n.qtip img {\n   max-width: 95% !important;\n   max-height: 95% !important;\n}\n\n/* Details for AnKing hyperlink image */\n#pic { opacity: 0.0; font-size: 16px; font-color: #F2E48E; font-family:Comic Sans!important; font-style:bold;}\n#pic:hover { opacity: 1; transition: opacity 0.2s ease; }\n.mobile #pic { display: none; }\n\n/* TAGS */\n/* Container To Fix Tags At Bottom Of Screen */\n#tags-container{\nposition: fixed;\nbottom: .5px;\nwidth: 100%;\nline-height: .45rem;\nmargin-left: -15px;\n}\n\n/* Clickable Tags (need to download the add-on) */\nkbd {\n display: inline-block;\n letter-spacing: .2px;\n font-weight: bold;\n font-size: 12px !important;\n text-shadow: none !important;\n padding: 0.05rem 0.1rem !important;\n margin: 1px -3px !important;\n border-radius: 4px;\n border-width: 1.5px !important;\n border-style: solid;\n background-color: transparent !important;\n box-shadow: none !important;\n opacity: 0.5;\n vertical-align: middle;\n}\n\n/* Tag Becomes More Visible On Hover */\nkbd:hover { opacity: 1; transition: opacity 0.2s ease; }\n\n/* Tag Colors */\nkbd:nth-of-type(1n+0) { border-color: #F44336; color: #F44336!important; }\nkbd:nth-of-type(2n+0) { border-color: #9C27B0; color: #9C27B0!important; }\nkbd:nth-of-type(3n+0) { border-color: #3F51B5; color: #3F51B5!important; }\nkbd:nth-of-type(4n+0) { border-color: #03A9F4; color: #03A9F4!important; }\nkbd:nth-of-type(5n+0) { border-color: #009688; color: #009688!important; }\nkbd:nth-of-type(6n+0) { border-color: #C0CA33; color: #C0CA33!important; }\nkbd:nth-of-type(7n+0) { border-color: #FF9800; color: #FF9800!important;}\nkbd:nth-of-type(8n+0) { border-color: #FF5722; color: #FF5722!important; }\nkbd:nth-of-type(9n+0) { border-color: #9E9E9E; color: #9E9E9E!important; }\nkbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B!important; }\n\n/* Tag Mobile Adjustments */\n.mobile kbd { opacity: .9; margin: 1px !important; display: inline-block; font-size: 10px !important; }\n.mobile #tags-container {line-height:0.6rem; margin-left: 0px; }\n\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { display: inline-block; } \n.centerbox {text-align:center;}\n\n/*AMBOSS UNDERLINE*/\n.amboss-mark { border-bottom: 2px solid #484a4a !important; padding-bottom: .2px; text-decoration: none !important; }\n/*Start of style added by resize image add-on. Don't edit directly or the edition will be lost. Edit via the add-on configuration */\n.mobile .card img {height:unset  !important; width:unset  !important;}\n/*End of style added by resize image add-on*/",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 16,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 16,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Lecture Notes",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 16,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Pimped",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Peterson's",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Additional Resources",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "zOMFS",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "<div class=clozefield>{{cloze:Text}}</div>\n\n<!-- EDIT CLOZE DURING REVIEW-change below to  \"edit:cloze:Text\" for editable field, but be sure to have the correct add-on installed-->\n<div class=editcloze>{{edit:cloze:Text}}</div>\n\n<hr>\n\n{{#Lecture Notes}}<div class=hints id=lecture>{{edit:hint:Lecture Notes}}</div>{{/Lecture Notes}}\n\n{{#Pimped}}<div class=hints id=missed>{{hint:Pimped}}</div>{{/Pimped}}\n\n<div class=hints id=pathoma></div>\n\n<div class=hints id=bnb></div>\n\n{{#Extra}}<div id=extra>{{edit:Extra}}</div>{{/Extra}}\n\n<div class=hints id=firstaid></div>\n\n{{#Peterson's}}<div class=hints id=sketchy>{{hint:Peterson's}}</div>{{/Peterson's}}\n\n<div class=hints id=physeo></div>\n\n{{#Additional Resources}}<div class=hints id=additional>{{hint:Additional Resources}}</div>{{/Additional Resources}}\n\n<br>\n<br>\n{{#Tags}}\n<div id=\"tags-container\">{{clickable::Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\n</script>\n{{/Tags}}\n\n<div id=pic><a href=\"https://www.ankingmed.com\">\n<img src=\"_AnKingRound.png\" alt=\"The AnKing\" style=\"height:50px;border:0;position:fixed;bottom:10px;right:10px;\">\n</a></div>",
